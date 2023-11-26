@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Paul</h1>
 <h3 align="center">An experienced full-stack developer from India, with a strong foundation in both frontend and backend technologies. Proficient in the MERN (MongoDB, Express, React, Node.js) stack, along with expertise in React.js, HTML, CSS, JavaScript, and C++. Passionate about creating engaging web experiences and building user-friendly interfaces, now complemented with the ability to develop robust server-side solutions. I have a strong attention to detail and can seamlessly translate design concepts into functional code. Let's connect and discuss how I can contribute to your projects, whether it's on the frontend, backend, or both. Skilled in collaborating with cross-functional teams to deliver high-quality and comprehensive solutions.</h3>
-<img align="right" alt="Logo" src="">
+<img align="right" alt="Logo" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpaul77&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpaul77" /> </p>
 
