@@ -76,13 +76,13 @@
   </a>
 </div>
 
-## Visitors:
+###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/abhishekpaul77/abhishekpaul77/output/snake.svg" alt="Snake animation" />
 
-###
+## Visitors:
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abhishekpaul77.abhishekpaul77&left_color=gold&right_color=chocolate&left_text=Profile%20views"  />
