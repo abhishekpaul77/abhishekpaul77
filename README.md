@@ -1,42 +1,91 @@
-<h1 align="center">Hi 👋, I'm Abhishek Paul</h1>
-<h3 align="center">An experienced full-stack developer from India, with a strong foundation in both frontend and backend technologies. Proficient in the MERN (MongoDB, Express, React, Node.js) stack, along with expertise in React.js, HTML, CSS, JavaScript, and C++. Passionate about creating engaging web experiences and building user-friendly interfaces, now complemented with the ability to develop robust server-side solutions. I have a strong attention to detail and can seamlessly translate design concepts into functional code. Let's connect and discuss how I can contribute to your projects, whether it's on the frontend, backend, or both. Skilled in collaborating with cross-functional teams to deliver high-quality and comprehensive solutions.</h3>
-<img align="right" alt="Logo" src="/coding.gif">
+<h1 align="center">Hi 👋! I'm Abhishek Paul</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpaul77&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpaul77" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekpaul77" alt="abhishekpaul77" /></a> </p>
+<h4 align="left">An experienced full-stack developer from India, with a strong foundation in both frontend and backend technologies. Proficient in the MERN (MongoDB, Express, React, Node.js) stack, along with expertise in React.js, HTML, CSS, JavaScript, and C++. Passionate about creating engaging web experiences and building user-friendly interfaces, now complemented with the ability to develop robust server-side solutions. I have a strong attention to detail and can seamlessly translate design concepts into functional code. Let's connect and discuss how I can contribute to your projects, whether it's on the frontend, backend, or both. Skilled in collaborating with cross-functional teams to deliver high-quality and comprehensive solutions.</h4>
 
-- 🔭 I’m currently working on [Netflix Project](https://github.com/abhishekpaul77/Netflix-Clone)
+###
 
-- 🌱 I’m currently learning **DSA(Data Structure & Algorithm)**
+<div align="center">
+  <img height="250" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
+</div>
 
-- 👯 I have made a news app project [News App](https://github.com/abhishekpaul77/News-app)
+###
 
-- 🤝 I worked on a note taking app [Note taking app](https://github.com/abhishekpaul77/note-taking-app-frontend)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpaul77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhishekpaul77&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpaul77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhishekpaul77](https://github.com/abhishekpaul77)
+###
 
-- 📝 I have made a music app using html,css and js [https://github.com/abhishekpaul77/Music-Website](https://github.com/abhishekpaul77/Music-Website)
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
+</div>
 
-- 💬 Ask me about **html,css,bootstrap,react,node,mongoDB,c++,c,DSA.**
+###
 
-- 📫 How to reach me **abhishekpaul5648@gmail.com**
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCtIF1i-eNxE297-RcuSP1Uw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/abhishekpaul.7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/bloodlustop" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="abhishekpaul5646@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-paul-aa6257250/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abhishek-paul-aa6257250/](https://www.linkedin.com/in/abhishek-paul-aa6257250/)
+###
 
-- ⚡ Fun fact **Alongside my mastery of various programming languages, I am also passionate about singing, playing football, gaming, and indulging in a good read. Engaging in these activities helps me maintain a calm and focused mindset while working.**
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-paul-aa6257250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-paul-aa6257250" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishekpaul.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekpaul.7" height="30" width="40" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/abhishekpaul77/abhishekpaul77/output/snake.svg" alt="Snake animation" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpaul77&show_icons=true&locale=en&layout=compact" alt="abhishekpaul77" /></p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhishekpaul77.abhishekpaul77&left_color=gold&right_color=chocolate&left_text=Profile%20views"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpaul77&show_icons=true&locale=en" alt="abhishekpaul77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpaul77&" alt="abhishekpaul77" /></p>
+###
